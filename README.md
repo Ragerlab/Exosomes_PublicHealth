@@ -5,4 +5,4 @@ This script was generated to support a general blood extracellular vesicle conte
 'Approaches to Incorporate Extracellular Vesicles into Exposure Science, Toxicology, and Public Health Research'
 currently under review.
 
-![Figure_1](https://user-images.githubusercontent.com/72747901/146387000-bcd9ddcf-0882-4b33-b842-0831e196d09f.png)
+![Figure_2](https://user-images.githubusercontent.com/72747901/146387174-ef98f841-d806-4df9-91c2-e197bdccfba9.png)
